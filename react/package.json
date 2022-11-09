@@ -1,13 +1,13 @@
 {
-  "name": "@uptopicons/react",
+  "name": "@uptop-icons/react",
   "license": "MIT",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
-  "homepage": "https://github.com/tailwindlabs/uptopicons#readme",
+  "homepage": "https://github.com/tailwindlabs/uptop-icons#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tailwindlabs/uptopicons.git"
+    "url": "https://github.com/tailwindlabs/uptop-icons.git"
   },
   "files": [
     "20",

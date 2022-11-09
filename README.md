@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://uptop.xyz/" target="_blank">
-    <img src="./.github/uptop.png" alt="Uptopicons" width="300">
+    <img src="./.github/uptop.png" alt="Uptop-icons" width="300">
   </a>
 
 </p>
@@ -15,16 +15,16 @@ Both icon styles are preconfigured to be stylable by setting the `color` CSS pro
 
 ## React
 
-First, install `@uptopicons/react` from npm:
+First, install `@uptop-icons/react` from npm:
 
 ```sh
-npm install @uptopicons/react
+npm install @uptop-icons/react
 ```
 
 Now each icon can be imported individually as a React component:
 
 ```js
-import { HistoryIcon } from '@uptopicons/react/20/solid'
+import { HistoryIcon } from '@uptop-icons/react/20/solid'
 
 function MyComponent() {
   return (
@@ -36,11 +36,11 @@ function MyComponent() {
 }
 ```
 
-Solid icons can be imported from `@uptopicons/react/20/solid`.
+Solid icons can be imported from `@uptop-icons/react/20/solid`.
 
 Icons use an upper camel case naming convention and are always suffixed with the word `Icon`.
 
-[Browse the full list of icon names on UNPKG &rarr;](https://unpkg.com/browse/@uptopicons/react/20/solid/)
+[Browse the full list of icon names on UNPKG &rarr;](https://unpkg.com/browse/@uptop-icons/react/20/solid/)
 
 ## License
 
